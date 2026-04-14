@@ -1,0 +1,44 @@
+Contexto: Actúa como un desarrollador web experto. Crea una landing page moderna, profesional y optimizada para dispositivos móviles (mobile-first) para la barbería "Onyx Barber Shop". El objetivo principal es que los clientes puedan agendar citas vía WhatsApp.
+
+1. Información de Marca y Contacto
+Nombre: Onyx Barber Shop
+
+Dirección: 6-65 Seneca Ave, Ridgewood, NY 11385 (Queens)
+
+Teléfono: (347) 988-7029
+
+WhatsApp de Citas: [Insertar número aquí, ej: +13479887029]
+
+Horario: Cierre a las 10:00 PM (asumir horario comercial estándar de 9 AM a 10 PM si no se especifica el inicio).
+
+2. Secciones Requeridas
+Hero Section: Un encabezado impactante con el nombre, una frase de bienvenida (ej: "Estilo y Precisión en Ridgewood") y un botón prominente de "Agendar Cita por WhatsApp".
+
+Sobre Nosotros: Mencionar que somos especialistas en diseño y estilo, con un equipo liderado por artistas como Miguel.
+
+Testimonios (Social Proof): Incluir estas reseñas destacadas:
+
+"Miguel es un verdadero artista. Se nota el orgullo que pone en su oficio. Siempre logra el diseño o estilo que pido." – Vikram Saini.
+
+"Excelente servicio 💈💈😊✌️" – Daniel Lopez.
+
+"El nivel de precisión y dedicación que ofrece es difícil de encontrar."
+
+Ubicación: Mapa embebido (o marcador visual) con la dirección exacta en Seneca Ave.
+
+Footer: Información de contacto rápida y enlaces a redes sociales.
+
+3. Especificaciones Técnicas
+Tecnologías: HTML5, CSS3 (puedes usar Tailwind CSS para un diseño rápido y moderno) y un poco de JavaScript si es necesario.
+
+Botón de WhatsApp: Configura el enlace de la siguiente forma:
+https://wa.me/13479887029?text=Hola,%20me%20gustaría%20agendar%20una%20cita%20en%20Onyx%20Barber%20Shop.
+
+Estética: Estilo "Barber Shop Classic" o "Minimalist Dark" (usa colores como negro, gris oscuro, blanco y detalles en dorado o madera).
+
+💡 Tips adicionales para mejorar la web:
+Imágenes: Como el texto de Google Maps menciona que hay fotos, pídele a Claude que deje "Placeholders" (espacios vacíos) para que tú luego subas fotos de los cortes de Miguel y la fachada del local.
+
+Llamada a la acción (CTA): Asegúrate de que el botón de WhatsApp flote en la esquina inferior derecha en la versión móvil; es lo que más usan los clientes.
+
+Local SEO: Dile a Claude que incluya etiquetas meta para que cuando alguien busque "Barbería en Ridgewood" o "Queens", la página tenga más oportunidad de aparecer.
